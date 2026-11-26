@@ -1,5 +1,7 @@
 # Digital Business and E-Commerce
 
+![Research architecture showing two public surveys reanalyzed in R, published metrics replotted in R, and original studies reviewed. These three lines of evidence inform a proposed retailer A/B test tracking purchases, margin, and complaints.](figures/research-architecture.png)
+
 **What can a social media post tell an online store about its next sale?**
 
 An English-language research portfolio adapted from an academic chapter on social media content and e-commerce. It brings together two survey reanalyses in R, published platform benchmarks, sales evidence, and a test design that a retailer could use to measure its own results.
