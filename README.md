@@ -1,6 +1,8 @@
 # Digital Business and E-Commerce
 
-![Research flow from public surveys and studies through R analysis and evidence review to the findings and proposed A/B test.](figures/research-architecture.png)
+![Three evidence streams inform the proposed retailer A/B test. Public survey data feed an R correlation analysis, published metrics feed descriptive charts, and published studies inform a review of user experiences and advertising lift.](figures/research-workflow.png)
+
+*Research design and evidence flow.*
 
 **What can a social media post tell an online store about its next sale?**
 
