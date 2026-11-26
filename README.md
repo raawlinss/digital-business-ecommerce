@@ -1,6 +1,6 @@
 # Digital Business and E-Commerce
 
-![Research architecture showing two public surveys reanalyzed in R, published metrics replotted in R, and original studies reviewed. These three lines of evidence inform a proposed retailer A/B test tracking purchases, margin, and complaints.](figures/research-architecture.png)
+![Research flow from public surveys and studies through R analysis and evidence review to the findings and proposed A/B test.](figures/research-architecture.png)
 
 **What can a social media post tell an online store about its next sale?**
 
